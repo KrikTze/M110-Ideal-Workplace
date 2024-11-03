@@ -1,0 +1,5 @@
+For this week's project. I created a sample scene with a camera, a not-yet playable character and some background music.
+This is a prototype that encapsulates the essence of the workplace I am trying to create. Also, along with some redesigning and cleaning up will probably be in the final game. The name of the scene is SampleScene in Assets/Scenes. I have used many free external packets from the asset store, in case there are compatibility or performance issues let me know and I will try to fix them on upcoming updates.
+
+Kind Regards,
+Krikor
